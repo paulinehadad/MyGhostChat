@@ -12,20 +12,24 @@
 	<dict>
 		<key>05E6542863D027D11458EB7BAE0570EF60C9599C</key>
 		<string>https://github.com/samuraipapa/GhostChat-iOS.git</string>
+		<key>60D354F3CD759FBF36DCE1DB1769E7D35FF29528</key>
+		<string>https://github.com/paulinehadad/MyGhostChat.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>GhostChat-iOS.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>05E6542863D027D11458EB7BAE0570EF60C9599C</key>
+		<string>../../../GhostChat-iOS</string>
+		<key>60D354F3CD759FBF36DCE1DB1769E7D35FF29528</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/samuraipapa/GhostChat-iOS.git</string>
+	<string>https://github.com/paulinehadad/MyGhostChat.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>05E6542863D027D11458EB7BAE0570EF60C9599C</string>
+	<string>60D354F3CD759FBF36DCE1DB1769E7D35FF29528</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -35,6 +39,14 @@
 			<string>05E6542863D027D11458EB7BAE0570EF60C9599C</string>
 			<key>IDESourceControlWCCName</key>
 			<string>GhostChat-iOS</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>60D354F3CD759FBF36DCE1DB1769E7D35FF29528</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyGhostChat</string>
 		</dict>
 	</array>
 </dict>
