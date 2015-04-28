@@ -42,7 +42,6 @@
                                                 </label>
                                             </subviews>
                                         </tableViewCellContentView>
-                                        <color key="backgroundColor" red="1" green="0.60643462960000005" blue="0.85495531329999996" alpha="1" colorSpace="calibratedRGB"/>
                                     </tableViewCell>
                                     <tableViewCell contentMode="scaleToFill" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="backgroundCell" textLabel="DEt-3a-4BP" rowHeight="21" style="IBUITableViewCellStyleDefault" id="6bk-2z-u6s">
                                         <autoresizingMask key="autoresizingMask"/>
@@ -57,7 +56,6 @@
                                                 </label>
                                             </subviews>
                                         </tableViewCellContentView>
-                                        <color key="backgroundColor" red="1" green="0.60643462960000005" blue="0.85495531329999996" alpha="1" colorSpace="calibratedRGB"/>
                                     </tableViewCell>
                                 </prototypes>
                                 <connections>
@@ -101,11 +99,7 @@
                                 </connections>
                             </button>
                         </subviews>
-<<<<<<< HEAD
-                        <color key="backgroundColor" red="1" green="0.60643462960000005" blue="0.85495531329999996" alpha="1" colorSpace="calibratedRGB"/>
-=======
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="0.59999999999999998" colorSpace="calibratedRGB"/>
->>>>>>> origin/master
                         <constraints>
                             <constraint firstItem="hC3-CC-y27" firstAttribute="bottom" secondItem="2fi-mo-0CV" secondAttribute="top" id="7mf-cs-xX5"/>
                             <constraint firstItem="hC3-CC-y27" firstAttribute="top" secondItem="isk-yC-YM7" secondAttribute="bottom" constant="19" id="8Vh-lf-bVD"/>
